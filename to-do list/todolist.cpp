@@ -32,6 +32,7 @@ while(option != 0)
     cout << "1 - TO Add New Task" << endl;
      cout << "2 - TO View Task" << endl;
      cout << "3 - TO Delete Task" << endl;
+     cout << "4 - To Mark Task as complete" << endl;
       cout << "0 - Terminate The Program" << endl;
       cin >> option;
 
